@@ -13,7 +13,6 @@ This landing page provides an engaging Christmas shopping experience. It include
 ### Features
 - Festive Christmas theme
 - Promotional banners
-- Links to different shopping categories
 - Responsive design for mobile and desktop views
 
 ### Example
